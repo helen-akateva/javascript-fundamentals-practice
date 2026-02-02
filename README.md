@@ -4,9 +4,6 @@
 
 This project contains solutions to JavaScript fundamentals exercises focusing on functions, parameters, and basic calculations. The exercises demonstrate core JavaScript concepts including function declarations, template literals, type conversion, and mathematical operations.
 
-## 🚀 Demo
-
-[View Live Demo](https://helen-akateva.github.io/goit-js-hw-01/)
 
 ## 🛠️ Technologies
 
@@ -45,16 +42,6 @@ goit-js-hw-01/
 └── README.md        # Project documentation
 ```
 
-## 🔧 Installation & Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/helen-akateva/goit-js-hw-01.git
-```
-
-2. Open `index.html` in your browser or use Live Server
-
-3. Open browser console (F12) to see the output of all tasks
 
 ## 👩💻 Author
 
